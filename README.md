@@ -2,6 +2,9 @@
 
 A powerful Apache Superset extension that transforms SQL queries into interactive flow diagrams, helping developers and analysts understand query execution paths and data relationships.
 
+<img width="1686" height="1034" alt="image" src="https://github.com/user-attachments/assets/df7a5171-6777-4065-84a3-f1b05f9aad59" />
+
+
 ## Features
 
 ### 🔍 **Visual Query Analysis**
