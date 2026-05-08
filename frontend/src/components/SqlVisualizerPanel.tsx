@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { core } from '@apache-superset/core';
 import QueryFlowDiagram from './QueryFlowDiagram';
 import '../styles/SqlVisualizer.css';
 

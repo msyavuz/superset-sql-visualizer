@@ -1,26 +1,8 @@
 {
-  "id": "sql_visualizer",
-  "name": "Sql Visualizer",
+  "publisher": "msyavuz",
+  "name": "sql-visualizer",
+  "displayName": "Sql Visualizer",
   "version": "0.1.0",
   "license": "Apache-2.0",
-  "frontend": {
-    "contributions": {
-      "commands": [],
-      "views": {
-        "sqllab.panels": [
-          {
-            "id": "sql_visualizer.main",
-            "name": "Sql Visualizer"
-          }
-        ]
-      },
-      "menus": {}
-    },
-    "moduleFederation": {
-      "exposes": [
-        "./index"
-      ]
-    }
-  },
   "permissions": []
 }
